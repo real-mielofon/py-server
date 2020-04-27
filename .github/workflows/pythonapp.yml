@@ -40,7 +40,6 @@ jobs:
         pytest
 
     ‐ name: build docker
-      id: build
       uses: docker/build-action@v1
       with:
         repository: mielofon/py-server
