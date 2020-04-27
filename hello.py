@@ -1,1 +1,6 @@
-print('Hello Home!')
+
+def getHelloMessages():
+    return  'Hello Home!'
+
+
+print(getHelloMessages())
