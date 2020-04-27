@@ -1,4 +1,3 @@
-
 def GetHelloMessages():
     return  'Hello Home!'
 
